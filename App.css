@@ -1,0 +1,22 @@
+.App {
+    margin: 50px;
+  
+  }
+  
+  .Search{
+    padding: 30px;
+    font-size: 20px;
+  }
+   .list{
+    padding: 0;
+    list-style: none;
+    text-align: center;
+   }
+  
+  .listItem{
+    margin-bottom: 20px;
+    font-size: 25px;
+    color:azure;
+    font-weight: 300;
+  
+  }
